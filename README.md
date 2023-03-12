@@ -1,9 +1,9 @@
 # Table of contents:
-* [About Me](#about_me)
-* [Favourite languages](#favourite_languages)
-* [Other_languages](#other_languages)
-* [Favourite IDEs](#favourite_ide)
-* [Current plans](#current_plans)
+* [About Me](#about-me)
+* [Favourite languages](#favourite-languages)
+* [Other_languages](#other-languages)
+* [Favourite IDEs](#favourite-ides)
+* [Current plans](#current-plans)
 
 
 ## About Me
