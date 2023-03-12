@@ -1,7 +1,7 @@
 # Table of contents:
 * [About Me](#about-me)
 * [Favourite languages](#favourite-languages)
-* [Other_languages](#other-languages)
+* [Other_known_languages](#other-known-languages)
 * [Favourite IDEs](#favourite-ides)
 * [Current plans](#current-plans)
 
@@ -26,8 +26,8 @@ I feel the most comfortable with those languges:
 * C++ 👑
 
 
-## Other languages
-I also have some experience with languages:
+## Other known languages
+I also have some experience with:
 * C
 * C#
 * Python 🐍
@@ -36,7 +36,7 @@ I also have some experience with languages:
 
 
 ## Favourite IDEs
-My favourite IDEs are:
+There are many great IDEs, byt my favourite ones are:
 * Microsoft Visual Studio
 * Microsoft Visual Studio Code
 * IntelliJ
@@ -44,4 +44,4 @@ My favourite IDEs are:
 
 ## Current plans
 Currently I am working on my own projects as a way to get more knowledge and experience in a field that really interests me. 🥰🥰   
-I am learning SQL, because it can create a great combination with Java to work with database and data structures. 📓
+I am also learning SQL, because it is a great combination with Java when working with databases and data structures. 📓
