@@ -1,16 +1,44 @@
-### Hi there 👋
+###### Hello there! 👋
 
-<!--
-**hrutkowski/hrutkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Table of contents:
+* [About Me](#about_me)
+* [Favourite languages](#favourite_languages)
+* [Other_languages](#other_languages)
+* [Favourite IDEs](#favourite_ide)
+* [Current plans](#current_plans)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I am 24 years old polish student of Electronics on Warsaw University of Technology. 🇵🇱🏫
+I can communcate well in Polish and English! 🇵🇱 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+I am a beginner back-end developer passionate about solving real-world problems with technology! 😊💻🖥️
+I have no comercial experience yet, but I am working to change that. 😇
+
+When I am not codeing, I like to:
+* Work out 🏋️💪
+* Play basketball and volleyball 🏀🏐
+* Hang out with friends :peo
+* Travel
+
+## Favourite languages
+I feel the most comfortable with those languges:
+* Java 👑
+* C++ 👑
+
+## Other languages
+I also have some experience with languages:
+* C
+* C#
+* Python 🐍
+* Swift 🍎
+* MATLAB
+
+## Favourite IDEs
+My favourite IDEs are:
+* Microsoft Visual Studio
+* Microsoft Visual Studio Code
+* IntelliJ
+
+## Current plans
+Currently I am working on my own projects as a way to get more knowledge and experience in a field that really interests me. 🥰🥰
+I am learning SQL, because it can create a great combination with Java to work with database and data structures. 📓
