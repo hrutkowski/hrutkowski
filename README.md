@@ -9,8 +9,8 @@
 ## About Me
 Hello there! 😄
 I am 24 years old polish student of Electronics on Warsaw University of Technology. 🇵🇱🏫   
-I can communcate well in Polish and English! 🇵🇱 🏴󠁧󠁢󠁥󠁮󠁧󠁿   
-I am a beginner back-end developer passionate about solving real-world problems with technology! 😊💻🖥️   
+I can communicate well both in Polish and English! 🇵🇱 🏴󠁧󠁢󠁥󠁮󠁧󠁿   
+I am a beginner back-end developer with ambition and passion to solving real-world problems with technology! 😊💻🖥️   
 I have no comercial experience yet, but I am working to change that. 😇
 
 When I am not codeing, I like to:
