@@ -2,31 +2,27 @@
 * [About Me](#about-me)
 * [Favourite languages](#favourite-languages)
 * [Other_known_languages](#other-known-languages)
+* [Useful things that I know](#useful_things_I_know)
 * [Favourite IDEs](#favourite-ides)
-* [Current plans](#current-plans)
 
 
 ## About Me
 Hello there! 😄
 I am 24 years old polish student of Electronics on Warsaw University of Technology. 🇵🇱🏫   
-I can communicate well both in Polish and English! 🇵🇱 🏴󠁧󠁢󠁥󠁮󠁧󠁿   
-I am a beginner back-end developer with ambition and passion to solving real-world problems with technology! 😊💻🖥️   
-I have no comercial experience yet, but I am working to change that. 😇
-
-When I am not codeing, I like to:
-* Work out 🏋️💪
-* Play basketball and volleyball 🏀🏐
-* Hang out with friends
-* Travel 🚌🚅✈️
+I can communicate well both in Polish and English! 🇵🇱 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+I have my engineering diploma in Electronics, and currently, I am studying Informatics with a specialization in Artificial Intelligence. 📘
+I am a beginner Back-End Developer with ambition and passion to solving real-world problems with technology! 💻   
+Currently, I am working as a Junior Programmer at Comarch on a project related to Electronic Document Management (usage of Perl). 📄🐫
 
 
-## Favourite languages
+## Favourite programming languages
 I feel the most comfortable with those languges:
 * Java 👑
 * C++ 👑
+* Perl 🐫👑
 
 
-## Other known languages
+## Other known programming languages
 I also have some experience with:
 * C
 * C#
@@ -35,13 +31,20 @@ I also have some experience with:
 * MATLAB
 
 
-## Favourite IDEs
+## Useful things that I know
+* Git / Git Bash / Git Extensions
+* CMD / Cygwin / PowerShell
+* Pg4admin / SQL Developer / DBeaver
+* Apache
+* Jira / Redmine
+* Kubernetes
+* Notepad++
+* PuTTY
+
+
+## Used IDEs
 There are many great IDEs, byt my favourite ones are:
+* IntelliJ IDEA
 * Microsoft Visual Studio
 * Microsoft Visual Studio Code
-* IntelliJ
-
-
-## Current plans
-Currently I am working on my own projects as a way to get more knowledge and experience in a field that really interests me. 🥰🥰   
-I am also learning SQL, because it is a great combination with Java when working with databases and data structures. 📓
+* Qt Creator
