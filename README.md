@@ -9,9 +9,13 @@
 ## About Me
 Hello there! 😄
 I am 24 years old polish student of Electronics on Warsaw University of Technology. 🇵🇱🏫   
+
 I can communicate well both in Polish and English! 🇵🇱 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+
 I have my engineering diploma in Electronics, and currently, I am studying Informatics with a specialization in Artificial Intelligence. 📘
+
 I am a beginner Back-End Developer with ambition and passion to solving real-world problems with technology! 💻   
+
 Currently, I am working as a Junior Programmer at Comarch on a project related to Electronic Document Management (usage of Perl). 📄🐫
 
 
