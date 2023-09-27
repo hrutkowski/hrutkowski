@@ -1,8 +1,8 @@
 # Table of contents:
 * [About Me](#about-me)
-* [Favourite programming languages](#favourite-languages)
-* [Other known programming languages](#other-known-languages)
-* [Useful things that I know](#useful_things_I_know)
+* [Favourite programming languages](#favourite-programming-languages)
+* [Other known programming languages](#other-known-programming-languages)
+* [Useful things that I know](#useful-things-that-I-know)
 * [Favourite IDEs](#favourite-ides)
 
 
@@ -42,7 +42,7 @@ I also have some experience with:
 * PuTTY
 
 
-## Used IDEs
+## Favourite IDEs
 There are many great IDEs, byt my favourite ones are:
 * IntelliJ IDEA
 * Microsoft Visual Studio
