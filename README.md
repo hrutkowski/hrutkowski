@@ -1,7 +1,7 @@
 # Table of contents:
 * [About Me](#about-me)
-* [Favourite languages](#favourite-languages)
-* [Other_known_languages](#other-known-languages)
+* [Favourite programming languages](#favourite-languages)
+* [Other known programming languages](#other-known-languages)
 * [Useful things that I know](#useful_things_I_know)
 * [Favourite IDEs](#favourite-ides)
 
