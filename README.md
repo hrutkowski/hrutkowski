@@ -8,11 +8,10 @@
 
 ## About Me
 Hello there! 😄
-I am a 25-year-old Polish graduate of Electronics from Warsaw University of Technology. 🇵🇱🏫   
-I can communicate well both in Polish and English! 🇵🇱 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Currently learning German! 🇩🇪
-
-I have my engineering diploma in Electronics and currently, I am studying Informatics with a specialization in Software Engineering. 📘
-I am a beginner Back-End Developer with ambition and passion to solving real-world problems with technology! 💻   
+I am a 25-year-old Polish graduate of Electronics from Warsaw University of Technology. 🇵🇱🏫  
+I can communicate well both in Polish and English! 🇵🇱 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Currently learning German! 🇩🇪  
+I have my engineering diploma in Electronics and currently, I am studying Informatics with a specialization in Software Engineering. 📘  
+I am a beginner Back-End Developer with ambition and passion to solving real-world problems with technology! 💻  
 Currently, I am working as a Junior Programmer at Comarch on a project related to Electronic Document Management (usage of Perl). 📄🐫
 
 
