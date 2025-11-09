@@ -28,6 +28,8 @@ I also have some experience with:
 * C#
 * Python 🐍
 * Swift 🍎
+* Node JS
+* React
 * MATLAB
 
 
